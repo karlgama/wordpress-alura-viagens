@@ -1,0 +1,57 @@
+{"success":true,"data": {
+  "10-01-2020": {
+    "original_hits": 1000,
+    "compressed_hits": 1000,
+    "images": "100",
+    "sessions": "100",
+    "original": 700000,
+    "compressed": 125000
+  },
+  "11-01-2020": {
+    "original_hits": 1000,
+    "compressed_hits": 1000,
+    "images": "100",
+    "sessions": "100",
+    "original": 1100000,
+    "compressed": 225000
+  },
+  "12-01-2020": {
+    "original_hits": 1000,
+    "compressed_hits": 1000,
+    "images": "100",
+    "sessions": "100",
+    "original": 1400000,
+    "compressed": 325000
+  },
+  "13-01-2020": {
+    "original_hits": 1000,
+    "compressed_hits": 1000,
+    "images": "100",
+    "sessions": "100",
+    "original": 1900000,
+    "compressed": 500000
+  },
+  "14-01-2020": {
+    "original_hits": 1000,
+    "compressed_hits": 1000,
+    "images": "100",
+    "sessions": "100",
+    "original": 1400000,
+    "compressed": 325000
+  },
+  "15-01-2020": {
+    "original_hits": 1000,
+    "compressed_hits": 1000,
+    "images": "100",
+    "sessions": "100",
+    "original": 1100000,
+    "compressed": 225000
+  },
+  "16-01-2020": {
+    "original_hits": 1000,
+    "compressed_hits": 1000,
+    "images": "100",
+    "sessions": "100",
+    "original": 700000,
+    "compressed": 125000
+  }}}
